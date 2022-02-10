@@ -1,0 +1,14 @@
+{
+    "name": "jh3ady/immutable-php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean-Denis VIDOT",
+            "email": "contact@jdevelop.io"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
